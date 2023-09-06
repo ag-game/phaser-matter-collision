@@ -1,0 +1,16 @@
+{
+  "name": "phasermattercollisionplugin-ts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "2.0.0-rc.0",
+    "phaser": "3.55.2",
+    "phaser-matter-collision-plugin": "1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
